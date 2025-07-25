@@ -2,7 +2,9 @@
 
 Target Shooting Game is a simple first-person shooter developed in Unreal Engine 5.6 as a learning project. This basic FPS was created by following YouTube tutorials to understand the fundamentals of UE5 development. The game features a straightforward objective: eliminate all targets within the time limit.
 
-![Game Preview](Extra/MiniPreview.png)
+<div align="center">
+  <img src="Extra/MiniPreview.png" alt="Game Preview">
+</div>
 
 ## 🎮 Game Concept
 
@@ -10,30 +12,30 @@ In Target Shooting Game, players have **100 seconds** to locate and shoot **5 ta
 
 ## 🛠️ Technologies Used
 
-• **Engine**: Unreal Engine 5.6
-• **Graphics**: Nanite virtualized geometry
-• **Lighting**: Lumen global illumination
-• **Physics**: Chaos Physics system
+• **Engine**: Unreal Engine 5.6  
+• **Graphics**: Nanite virtualized geometry  
+• **Lighting**: Lumen global illumination  
+• **Physics**: Chaos Physics system  
 • **Programming**: Blueprint visual scripting
 
 ## 📚 Learning Objectives
 
 This project served as an introduction to several key UE5 concepts:
 
-• 🧩 **Blueprint Programming**: Visual scripting fundamentals
-• ⚙️ **Chaos Physics**: Physics system management
-• 🎨 **Material Creation**: Custom material development
-• 🏗️ **Static Mesh Creation**: 3D asset development
-• 💡 **Lumen Lighting**: Advanced lighting techniques
-• 🌄 **Landscape Creation**: Terrain generation and sculpting
-• 🌿 **Foliage Systems**: Vegetation placement and optimization
+• 🧩 **Blueprint Programming**: Visual scripting fundamentals  
+• ⚙️ **Chaos Physics**: Physics system management  
+• 🎨 **Material Creation**: Custom material development  
+• 🏗️ **Static Mesh Creation**: 3D asset development  
+• 💡 **Lumen Lighting**: Advanced lighting techniques  
+• 🌄 **Landscape Creation**: Terrain generation and sculpting  
+• 🌿 **Foliage Systems**: Vegetation placement and optimization  
 • 🔧 **Nanite Technology**: Virtualized geometry implementation
 
 ## 🎓 Resources
 
 This game was developed following these excellent tutorials:
 
-• **Gameplay Implementation**: [UE5 FPS Tutorial](https://www.youtube.com/watch?v=1XjgLKrb4_M&t=9367s)
+• **Gameplay Implementation**: [UE5 FPS Tutorial](https://www.youtube.com/watch?v=1XjgLKrb4_M&t=9367s)  
 • **Map Creation**: [UE5 Environment Tutorial](https://www.youtube.com/watch?v=k-zMkzmduqI&pp=0gcJCccJAYcqIYzv)
 
 ## 🎯 How to Play
